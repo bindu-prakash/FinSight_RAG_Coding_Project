@@ -1,0 +1,3 @@
+SYNTHETIC CONFIDENTIAL DEMO DOCUMENT — NOT A REAL COMPANY POLICY.
+Fictional internal note: Demo employee handbook access is restricted to users with the admin role.
+This document is included only for RBAC tests. It contains no real confidential information.

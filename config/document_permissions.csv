@@ -1,0 +1,5 @@
+source_name,allowed_roles
+SYNTHETIC_NORTHSTAR_ANNUAL_REPORT.txt,admin;analyst;viewer
+SYNTHETIC_NORTHSTAR_NOTES.txt,admin;analyst
+SYNTHETIC_EMPLOYEE_HANDBOOK.txt,admin
+FTNT_2025_Annual_Report.pdf,admin;analyst;viewer

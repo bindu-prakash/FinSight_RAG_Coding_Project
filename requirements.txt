@@ -1,0 +1,6 @@
+streamlit>=1.36
+sentence-transformers>=3.0
+numpy>=1.26
+pypdf>=4.2
+requests>=2.31
+pytest>=8.0

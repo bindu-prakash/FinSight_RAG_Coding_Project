@@ -1,0 +1,17 @@
+{
+  "admin": {
+    "salt": "9b7e13a6b4a29f10d32f47a8b9f0c5e1",
+    "password_hash": "2ec5d54372ad36a21a34ea8f3adef8f0695bbfd546de33177c62e143eeddc62d",
+    "role": "admin"
+  },
+  "analyst": {
+    "salt": "2a1c9d7e6f4b3a8091c2d3e4f5a6b7c8",
+    "password_hash": "37617b15795f9b2b31db716e7d0132574ee55da28c2d335e66df7d1acac09e16",
+    "role": "analyst"
+  },
+  "viewer": {
+    "salt": "8c7b6a5948372615a4b3c2d1e0f9a8b7",
+    "password_hash": "20dc3eb4fce86dde4967fb04d1f3c37635c8b8becc24680fa329bb1ebd5c5315",
+    "role": "viewer"
+  }
+}

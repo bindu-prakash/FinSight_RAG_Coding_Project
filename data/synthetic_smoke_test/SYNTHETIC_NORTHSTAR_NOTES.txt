@@ -1,0 +1,3 @@
+SYNTHETIC EXAMPLE ONLY — NOT A REAL COMPANY OR REAL FINANCIAL DATA.
+Fictional note: Northstar Example Corporation reported that its example revenue increased by 8 percent in FY2025.
+Use this note only to test retrieval and answer grounding.

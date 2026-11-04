@@ -1,0 +1,6 @@
+SYNTHETIC EXAMPLE ONLY — NOT A REAL COMPANY OR REAL FINANCIAL DATA.
+Northstar Example Corporation — FY2025 Annual Report (fictional demonstration)
+For this fictional example only, revenue for FY2025 was USD 12.0 million.
+Current assets were USD 5.0 million and current liabilities were USD 2.5 million.
+Therefore, the current ratio for this synthetic example is current assets / current liabilities = 2.0.
+This sample exists only to test document ingestion, retrieval, citations, and access permissions.
